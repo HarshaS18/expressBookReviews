@@ -1,0 +1,2 @@
+curl -s "http://localhost:8800/author/Chinua%20Achebe"
+{"1":{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}}
